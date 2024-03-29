@@ -51,4 +51,4 @@ Hi! My name is Christian, and I'm passionate about programming and data science 
 [![My Skills](https://skillicons.dev/icons?i=py,c,css,java,bootstrap,html&perline=4)](https://skillicons.dev)
 
 ### Software y herramientas:
-[![My Skills](https://skillicons.dev/icons?i=opencv,pytorch,tensorflow,sklearn,flask,pycharm,vscode,stackoverflow,git,github,,anaconda,django,fastapi,linux,windows, mysql,postgres,pycharm&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=opencv,pytorch,tensorflow,sklearn,flask,pycharm,vscode,stackoverflow,git,github,anaconda,django,fastapi,linux,windows, mysql,postgres,pycharm&perline=9)](https://skillicons.dev)
