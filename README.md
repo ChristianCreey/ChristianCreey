@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-<h1 align="center">¡Hi! I'm Christian Creey <a> <br> <img aling="left" width="100" height="100" src="https://github.com/ChristianCreey/ChristianCreey/blob/main/4Snj.gif?raw=true" /></a></h1>
+<h1 align="center">¡Hi! I'm Christian Creey <a> <br> <img aling="left" width="100" height="100" src="https://github.com/ChristianCreey/ChristianCreey/blob/main/4Snj.gif?raw=true" />
+<img aling="left" width="100" height="100" src="https://github.com/0xabdulkhalid/0xabdulkhalid/blob/main/assets/mdImages/about_me.gif?raw=true" /> </a></h1>
 
 # 💫 About Me:
 Hi! My name is Christian, and I'm passionate about programming and data science with a deep love for technology and innovation. This space is where I share my projects, experiences and learning.
@@ -17,8 +18,9 @@ Hi! My name is Christian, and I'm passionate about programming and data science 
 <p> <li> You can send me an email here: ccreey@outlook.es 💌 <p>
 
 <div align="center">
-<a href="https://www.credly.com/badges/9db72ca1-454b-4f18-994f-988fd6534d62/public_url" target="_blank"><img aling="center" width="90" height="90" src="https://images.credly.com/size/110x110/images/84ac9eff-b8a2-4683-846b-f59887a73801/Python_101_Data_Science.png"> 
-<a href="https://www.credly.com/badges/d2811a73-dc79-46fc-a40f-856a72b4fb9d/public_url" target="_blank"> <img aling="center" width="90" height="90" src="https://images.credly.com/size/110x110/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png"> 
+  <a href="https://www.credly.com/badges/9db72ca1-454b-4f18-994f-988fd6534d62/public_url" target="_blank"><img aling="center" width="90" height="90" src="https://images.credly.com/size/110x110/images/84ac9eff-b8a2-4683-846b-f59887a73801/Python_101_Data_Science.png"> 
+  <a href="https://www.credly.com/badges/d2811a73-dc79-46fc-a40f-856a72b4fb9d/public_url" target="_blank"> <img aling="center" width="90" height="90" src="https://images.credly.com/size/110x110/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png">
+  <a href="https://www.credly.com/badges/b5924fb2-b735-4bfa-ac24-cb331abf43c4/public_url" target="_blank"> <img aling="center" width="90" height="90" src="https://images.credly.com/size/110x110/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png"> 
 </div>
 
 
