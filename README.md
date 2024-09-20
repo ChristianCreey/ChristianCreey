@@ -2,7 +2,7 @@
 
 <h1 align="center">¡Hi! I'm Christian Creey <a> <br> <img aling="left" width="100" height="100" src="https://github.com/ChristianCreey/ChristianCreey/blob/main/4Snj.gif?raw=true" />
 <img aling="left" width="100" height="100" src="https://github.com/ChristianCreey/ChristianCreey/blob/main/about_me.gif?raw=true" />
-<img aling="left" width="100" height="100" src="https://github.com/ChristianCreey/ChristianCreey/blob/main/4Snj.gif?raw=true" /></a></h1>
+<img aling="left" width="100" height="100" src="https://github.com/ChristianCreey/ChristianCreey/blob/main/nyan-cat.gif?raw=true" /></a></h1>
 
 # 💫 About Me:
 Hi! My name is Christian, and I'm passionate about programming and data science with a deep love for technology and innovation. This space is where I share my projects, experiences and learning.
