@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">¡Hi! I'm Christian Creey <a> <br> <img aling="left" width="100" height="100" src="https://github.com/ChristianCreey/ChristianCreey/blob/main/4Snj.gif?raw=true" />
-<img aling="left" width="100" height="100" src="https://github.com/ChristianCreey/ChristianCreey/blob/main/about-me.gif?raw=true" />
+<img aling="left" width="100" height="100" src="https://github.com/ChristianCreey/ChristianCreey/blob/main/about_me.gif?raw=true" />
 <img aling="left" width="100" height="100" src="https://github.com/ChristianCreey/ChristianCreey/blob/main/4Snj.gif?raw=true" /></a></h1>
 
 # 💫 About Me:
