@@ -19,7 +19,7 @@ Hi! My name is Christian, and I'm passionate about programming and data science 
 <p> <li> You can send me an email here: ccreey@outlook.es 💌 <p>
 
 <div align="center">
-  <a href="https://images.credly.com/size/340x340/images/b40db465-587f-45eb-a854-af8630a630e7/blob" target="_blank"><img aling="center" width="90" height="90" src="https://images.credly.com/size/110x110/images/84ac9eff-b8a2-4683-846b-f59887a73801/Python_101_Data_Science.png"> 
+  <a href="https://images.credly.com/size/340x340/images/b40db465-587f-45eb-a854-af8630a630e7/blob" target="_blank"><img aling="center" width="90" height="90" src="https://images.credly.com/size/340x340/images/b40db465-587f-45eb-a854-af8630a630e7/blob"> 
   <a href="https://www.credly.com/badges/d2811a73-dc79-46fc-a40f-856a72b4fb9d/public_url" target="_blank"> <img aling="center" width="90" height="90" src="https://images.credly.com/size/110x110/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png">
   <a href="https://www.credly.com/badges/b5924fb2-b735-4bfa-ac24-cb331abf43c4/public_url" target="_blank"> <img aling="center" width="90" height="90" src="https://images.credly.com/size/340x340/images/73ac7b07-679c-4c0e-94d9-8b9dc11efe59/Applied_Data_Science_with_Python.png"> 
 </div>
