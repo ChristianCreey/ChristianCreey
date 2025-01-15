@@ -12,7 +12,7 @@ Hi! My name is Christian, and I'm passionate about programming and data science 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/christian-emmanuel-cruz-reyes-b6956620b) 
 [![Linktr](https://www.bing.com/ck/a?!&&p=bb76900b2d39adf8feaec673517b963a5809532baac51629632bce18e89bab54JmltdHM9MTczNjg5OTIwMA&ptn=3&ver=2&hsh=4&fclid=0e5cfade-b37a-666f-304a-efe2b2196721&u=a1L2ltYWdlcy9zZWFyY2g_cT1sb2dvJTIwbGlua3RyZWUmRk9STT1JUUZSQkEmaWQ9QUUxMTc5RjlBNzZBRTVBMUJEMDU2N0MyQzgzOUFCMzZDNzhBNUNFMA&ntb=1)](https://linktr.ee/ChristianCreey) 
 
-https://linktr.ee/ChristianCreey
+
 
 
 <h3 align="center"> computer systems engineering TESJo  | 💙 |  </h3>
