@@ -45,11 +45,6 @@ Hi! My name is Christian, and I'm passionate about programming and data science 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
-<!-- ---------------------------------------------------------------------------------------------------------------------------------------------------- -->
-## Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianCreey&layout=compact)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChristianCreey&show_icons=true&theme=radical)
 
 <!-- ---------------------------------------------------------------------------------------------------------------------------------------------------- -->
 ## Snake Game
@@ -59,3 +54,31 @@ Hi! My name is Christian, and I'm passionate about programming and data science 
 </p>
 
 <!-- ---------------------------------------------------------------------------------------------------------------------------------------------------- -->
+<h2>Enviroment, IDEs and Tools</h2>
+<a  href="#"><img  src="https://img.shields.io/badge/VS-0D1117.svg?style=rounded-square&logo=visualstudiocode&logoColor=D02929"></a>
+<a  href="#"><img  src="https://img.shields.io/badge/VSCode-0D1117.svg?style=rounded-square&logo=visualstudiocode&logoColor=D02929"></a>
+<a  href="#"><img  src="https://img.shields.io/badge/IntelliJ IDEA-0D1117.svg?style=rounded-square&logo=intellijidea&logoColor=D02929"></a>
+<a  href="#"><img  src="https://img.shields.io/badge/-Windows-0D1117?style=rounded-square&logo=windows&logoColor=D02929"></a>
+<a  href="#"><img  src="https://img.shields.io/badge/-Linux-0D1117?style=rounded-square&logo=linux&logoColor=D02929"></a>
+
+<br/>
+
+  
+  <div align="center">
+<img  alt="ChristianCreey's Github Stats"  src="https://github-readme-stats.vercel.app/api?username=ChristianCreey&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=D02929&icon_color=D02929"  height="180"/>
+<img  alt="ChristianCreey's Top Languages"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianCreey&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=D02929&icon_color=D02929"  height="180"/>
+<br/>
+<i><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i>
+<br/>
+<p>hola</p>
+<a href="#"><img alt="Maeva's Activity Graph" src="https://activity-graph.herokuapp.com/graph username=MaeMazcort&custom_title=MaeMazcort%20Contribution%20Graph&bg_color=0D1117&color=D02929&line=FFFFFF&point=D02929&hide_border=true" /></a>
+<p>hola</p>
+<br/>
+<div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="christian" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/christian-emmanuel-c-b6956620b/">Christian Emmanuel Cruz Reyes</a></div> 
+<br/>        
+
+</div>
+<br/>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=ChristianCreey&style=flat-square&color=D02929" alt="Visitors Badge"/>
+</p>
