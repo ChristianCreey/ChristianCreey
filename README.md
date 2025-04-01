@@ -29,15 +29,27 @@ Hi! My name is Christian, and I'm passionate about programming and data science 
 
 
  ## Skill and languages:
-
+ 
+<!-- ---------------------------------------------------------------------------------------------------------------------------------------------------- -->
 ### Languages:
 [![My Skills](https://skillicons.dev/icons?i=py,c,css,java,bootstrap,html&perline=3)](https://skillicons.dev)
 
+<!-- ---------------------------------------------------------------------------------------------------------------------------------------------------- -->
 ### Software and tools:
 [![My Skills](https://skillicons.dev/icons?i=opencv,pytorch,tensorflow,sklearn,flask,pycharm,vscode,stackoverflow,git,github,anaconda,django,fastapi,linux,windows,mysql,postgres,pycharm&perline=9)](https://skillicons.dev)
 
+<!-- ---------------------------------------------------------------------------------------------------------------------------------------------------- -->
 ### 🛠 Skills
  
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+
+<!-- ---------------------------------------------------------------------------------------------------------------------------------------------------- -->
+## Snake Game
+
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
+
+<!-- ---------------------------------------------------------------------------------------------------------------------------------------------------- -->
