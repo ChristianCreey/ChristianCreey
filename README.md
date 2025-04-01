@@ -70,15 +70,11 @@ Hi! My name is Christian, and I'm passionate about programming and data science 
 <br/>
 <i><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i>
 <br/>
-<p>hola</p>
-<a href="#"><img alt="Maeva's Activity Graph" src="https://activity-graph.herokuapp.com/graph username=MaeMazcort&custom_title=MaeMazcort%20Contribution%20Graph&bg_color=0D1117&color=D02929&line=FFFFFF&point=D02929&hide_border=true" /></a>
-<p>hola</p>
+
 <br/>
 <div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="christian" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/christian-emmanuel-c-b6956620b/">Christian Emmanuel Cruz Reyes</a></div> 
 <br/>        
 
 </div>
 <br/>
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=ChristianCreey&style=flat-square&color=D02929" alt="Visitors Badge"/>
-</p>
+
