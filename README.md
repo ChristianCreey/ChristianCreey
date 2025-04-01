@@ -54,17 +54,18 @@ Hi! My name is Christian, and I'm passionate about programming and data science 
 </p>
 
 <!-- ---------------------------------------------------------------------------------------------------------------------------------------------------- -->
+<!--
 <h2>Enviroment, IDEs and Tools</h2>
+
 <a  href="#"><img  src="https://img.shields.io/badge/VS-0D1117.svg?style=rounded-square&logo=visualstudiocode&logoColor=D02929"></a>
 <a  href="#"><img  src="https://img.shields.io/badge/VSCode-0D1117.svg?style=rounded-square&logo=visualstudiocode&logoColor=D02929"></a>
 <a  href="#"><img  src="https://img.shields.io/badge/IntelliJ IDEA-0D1117.svg?style=rounded-square&logo=intellijidea&logoColor=D02929"></a>
 <a  href="#"><img  src="https://img.shields.io/badge/-Windows-0D1117?style=rounded-square&logo=windows&logoColor=D02929"></a>
 <a  href="#"><img  src="https://img.shields.io/badge/-Linux-0D1117?style=rounded-square&logo=linux&logoColor=D02929"></a>
-
+-->
 <br/>
 
-  
-  <div align="center">
+<div align="center">
 <img  alt="ChristianCreey's Github Stats"  src="https://github-readme-stats.vercel.app/api?username=ChristianCreey&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=D02929&icon_color=D02929"  height="180"/>
 <img  alt="ChristianCreey's Top Languages"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianCreey&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=D02929&icon_color=D02929"  height="180"/>
 <br/>
