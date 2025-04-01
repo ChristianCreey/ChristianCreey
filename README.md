@@ -46,6 +46,12 @@ Hi! My name is Christian, and I'm passionate about programming and data science 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
 <!-- ---------------------------------------------------------------------------------------------------------------------------------------------------- -->
+## Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianCreey&layout=compact)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChristianCreey&show_icons=true&theme=radical)
+
+<!-- ---------------------------------------------------------------------------------------------------------------------------------------------------- -->
 ## Snake Game
 
 <p align = "center">
